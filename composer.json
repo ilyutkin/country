@@ -1,0 +1,44 @@
+{
+  "name": "rovereto/country",
+  "description": "Laravel Country",
+  "type": "library",
+  "keywords": [
+    "ISO_3166",
+    "ISO_3166-2",
+    "continent",
+    "country",
+    "ip2location",
+    "subdivision",
+    "timezone"
+  ],
+  "license": "MIT",
+  "support": {
+    "email": "alexander@ilyutkin.ru",
+    "issues": "https://github.com/ilyutkin/country/issues",
+    "source": "https://github.com/ilyutkin/country",
+    "docs": "https://github.com/ilyutkin/country/blob/master/README.md"
+  },
+  "authors": [
+    {
+      "name": "Alexander Ilyutkin",
+      "email": "alexander@ilyutkin.ru",
+      "homepage": "http://ilyutkin.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rovereto\\Country\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "preferred-install": "dist",
+    "optimize-autoloader": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
