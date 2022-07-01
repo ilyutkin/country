@@ -3,7 +3,7 @@
 Several methods for searching timezones, continent by country code and subdivision code by subdivision name in IP2Location.
 
 [![Packagist](https://img.shields.io/packagist/v/rovereto/country.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rovereto/country)
-[![License](https://img.shields.io/packagist/l/rovereto/country.svg?label=License&style=flat-square)](https://github.com/ilyutkin/country/blob/develop/LICENSE.md)
+[![License](https://img.shields.io/packagist/l/rovereto/country.svg?label=License&style=flat-square)](https://github.com/ilyutkin/country/blob/master/LICENSE.md)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/rovereto/country?style=flat-square)](https://packagist.org/packages/rovereto/country)
 
 ## Installation
